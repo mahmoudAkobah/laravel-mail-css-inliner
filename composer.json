@@ -1,5 +1,5 @@
 {
-    "name": "fedeisas/laravel-mail-css-inliner",
+    "name": "akoubeh/laravel-mail-css-inliner",
     "description": "Inline the CSS of your HTML emails using Laravel",
     "keywords": [
         "laravel",
